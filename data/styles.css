@@ -21,6 +21,13 @@
 }
 .connector {
 }
+._一级标题 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 ._形状 {
 }
 .table_cell {
@@ -28,7 +35,7 @@
 .primary_button {
   color:#FFFFFF;
 }
-._一级标题 {
+._一级标题1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
