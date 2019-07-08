@@ -2801,10 +2801,9 @@
 #u283_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:8px;
+  width:74px;
   word-wrap:break-word;
 }
 #u284_img {
@@ -2847,14 +2846,16 @@
   top:363px;
   width:118px;
   height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u285_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:6px;
+  width:114px;
   word-wrap:break-word;
 }
 #u286_img {
@@ -2872,14 +2873,16 @@
   top:363px;
   width:123px;
   height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u286_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:6px;
+  width:119px;
   word-wrap:break-word;
 }
 #u287_img {
@@ -2897,14 +2900,16 @@
   top:363px;
   width:235px;
   height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u287_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:6px;
+  width:231px;
   word-wrap:break-word;
 }
 #u288_img {
@@ -2922,14 +2927,16 @@
   top:363px;
   width:405px;
   height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u288_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:6px;
+  width:401px;
   word-wrap:break-word;
 }
 #u289_img {
@@ -2951,10 +2958,9 @@
 #u289_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:8px;
+  width:52px;
   word-wrap:break-word;
 }
 #u290_img {
@@ -5069,7 +5075,7 @@
   left:0px;
   top:0px;
   width:88px;
-  height:326px;
+  height:355px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -5088,7 +5094,7 @@
   left:179px;
   top:170px;
   width:88px;
-  height:326px;
+  height:355px;
   font-family:'.AppleSystemUIFontEmphasized', '.AppleSystemUIFont Bold', '.AppleSystemUIFont';
   font-style:normal;
   font-size:14px;
@@ -5098,7 +5104,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:138px;
+  top:152px;
   width:84px;
   word-wrap:break-word;
 }
