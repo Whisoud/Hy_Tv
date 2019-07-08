@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u747_div {
+#u748_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -27,45 +27,13 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u747 {
+#u748 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:-10px;
   width:1202px;
   height:746px;
-}
-#u747_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u748_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1202px;
-  height:45px;
-  background:inherit;
-  background-color:rgba(215, 215, 215, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u748 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1202px;
-  height:45px;
 }
 #u748_text {
   border-width:0px;
@@ -81,6 +49,38 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:1202px;
+  height:45px;
+  background:inherit;
+  background-color:rgba(215, 215, 215, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u749 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1202px;
+  height:45px;
+}
+#u749_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u750_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:42px;
   height:24px;
   background:inherit;
@@ -95,7 +95,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u749 {
+#u750 {
   border-width:0px;
   position:absolute;
   left:42px;
@@ -107,7 +107,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u749_text {
+#u750_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -115,7 +115,7 @@
   width:42px;
   word-wrap:break-word;
 }
-#u750_div {
+#u751_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -134,7 +134,7 @@
   font-style:normal;
   font-size:16px;
 }
-#u750 {
+#u751 {
   border-width:0px;
   position:absolute;
   left:807px;
@@ -146,7 +146,7 @@
   font-style:normal;
   font-size:16px;
 }
-#u750_text {
+#u751_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -154,7 +154,7 @@
   width:344px;
   white-space:nowrap;
 }
-#u751 {
+#u752 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -162,7 +162,7 @@
   width:0px;
   height:0px;
 }
-#u752_div {
+#u753_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -178,7 +178,7 @@
   box-shadow:none;
   font-size:18px;
 }
-#u752 {
+#u753 {
   border-width:0px;
   position:absolute;
   left:1223px;
@@ -187,7 +187,7 @@
   height:156px;
   font-size:18px;
 }
-#u752_text {
+#u753_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -195,7 +195,7 @@
   width:560px;
   word-wrap:break-word;
 }
-#u753_div {
+#u754_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -214,7 +214,7 @@
   font-style:normal;
   font-size:26px;
 }
-#u753 {
+#u754 {
   border-width:0px;
   position:absolute;
   left:1223px;
@@ -226,7 +226,7 @@
   font-style:normal;
   font-size:26px;
 }
-#u753_text {
+#u754_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -234,7 +234,7 @@
   width:105px;
   white-space:nowrap;
 }
-#u754_img {
+#u755_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -242,7 +242,7 @@
   width:300px;
   height:170px;
 }
-#u754 {
+#u755 {
   border-width:0px;
   position:absolute;
   left:451px;
@@ -254,7 +254,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u754_text {
+#u755_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -262,7 +262,7 @@
   width:296px;
   word-wrap:break-word;
 }
-#u755_div {
+#u756_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -280,7 +280,7 @@
   font-weight:700;
   font-style:normal;
 }
-#u755 {
+#u756 {
   border-width:0px;
   position:absolute;
   left:394px;
@@ -291,7 +291,7 @@
   font-weight:700;
   font-style:normal;
 }
-#u755_text {
+#u756_text {
   border-width:0px;
   position:absolute;
   left:0px;
