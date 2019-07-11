@@ -2035,12 +2035,15 @@
   top:243px;
   width:56px;
   height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u253_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:8px;
+  top:6px;
   width:52px;
   word-wrap:break-word;
 }
